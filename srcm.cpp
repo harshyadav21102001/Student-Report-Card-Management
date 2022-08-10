@@ -277,7 +277,7 @@ int main(){
         cout << "\t\t 1: Result Menu\n";
         cout << "\t\t 2: Entry/Edit Menu\n";
         cout << "\t\t 3: Exit\n";
-        cout << "\t\t\t\t Made By Aditya Chaudhary\n";
+        cout << "\t\t\t\t Made By Harsh Yadav\n";
         cout << "\t\t";
         cin >> choice;
         switch(choice){
